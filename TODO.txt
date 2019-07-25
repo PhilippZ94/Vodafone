@@ -1,0 +1,2 @@
+- balkendiagramme gleiche skala?
+- Graph-svg auswählen
