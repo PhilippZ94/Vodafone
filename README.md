@@ -7,3 +7,5 @@ __Authers:__
 - Philipp Zehetner
 
 __Supervised by__ Professor Marco Zanetti
+
+The actual analysis is contained in the notebook __Vodafone.ipynb__
